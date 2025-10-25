@@ -1,1 +1,1 @@
-const A = ['QUAN TRAN mac']
+'1 + 1 = 2'
