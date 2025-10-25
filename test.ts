@@ -1,0 +1,1 @@
+const A = ['QUAN TRAN']
