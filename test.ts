@@ -1,1 +1,1 @@
-const A = ['QUAN TRAN']
+const A = ['QUAN TRAN mac']
